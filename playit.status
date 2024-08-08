@@ -1,0 +1,525 @@
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: TooManyRequests
+[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723075874692 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (dis[2J8[2J8[0mplayit (v0.15.13): 1723075877755 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (dis[2J8[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyReq[2J8[2J8[0mplayit (v0.15.13): 1723075892862 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (dis[2J8[2J8[0mplayit (v0.15.13): 1723075895923 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (dis[2J8[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyReq[2J8[2J8[0mplayit (v0.15.13): 1723075911019 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (dis[2J8[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyReq[2J8[2J8[0mplayit (v0.15.13): 1723075926123 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (dis[2J8[0mplayit (v0.15.13): 1723075929150 tunnel running, 1 tunnels registered
+
+Too many agents: [2J8[0mplayit (v0.15.13): 1723075941213 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (dis[2J8[2J8[0mplayit (v0.15.13): 1723075944269 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (dis[2J8[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyReq[2J8[2J8[0mplayit (v0.15.13): 1723075959360 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (dis[2J8[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyReq[2J8[2J8[0mplayit (v0.15.13): 1723075974464 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (dis[2J8[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyReq[2J8[2J8[0mplayit (v0.15.13): 1723075989561 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (dis[2J8[2J8[0mplayit (v0.15.13): 1723075992637 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (dis[2J8[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyReq[2J8[2J8[0mplayit (v0.15.13): 1723076007730 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (dis[2J8[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyReq[2J8[2J8[0mplayit (v0.15.13): 1723076022836 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (dis[2J8[2J8[0mplayit (v0.15.13): 1723076025899 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (dis[2J8[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyReq[2J8[2J8[0mplayit (v0.15.13): 1723076040994 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (dis[2J8[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyReq[2J8[2J8[0mplayit (v0.15.13): 1723076056087 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (dis[2J8[2J8[0mplayit (v0.15.13): 1723076059163 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (dis[2J8[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyReq[2J8[2J8[0mplayit (v0.15.13): 1723076074266 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (dis[2J8[0mplayit (v0.15.13): 1723076077295 tunnel running, 1 tunnels registered
+
+Too many agents: [2J8[0mplayit (v0.15.13): 1723076089356 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.13): 1723076092414 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723076107509 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.13): 1723076110575 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723076125668 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.13): 1723076128735 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723076143831 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723076158919 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.13): 1723076161985 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723076177088 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.13): 1723076180145 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723076195236 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.13): 1723076198295 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723076213392 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723076228481 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.13): 1723076231541 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723076246635 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.13): 1723076249698 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723076264802 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.13): 1723076267865 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723076282959 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.13): 1723076286021 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723076301117 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.13): 1723076304178 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723076319295 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.13): 1723076322357 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723076337447 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.13): 1723076340510 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.13): 1723076343568 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723076358678 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.13): 1723076361740 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723076376824 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.13): 1723076379886 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723076395003 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.13): 1723076398058 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723076413163 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723076428253 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.13): 1723076431311 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723076446415 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.13): 1723076449480 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.13): 1723076452546 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723076467635 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.13): 1723076470693 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723076485814 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.13): 1723076488874 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723076503982 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723076519079 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.13): 1723076522139 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723076537230 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.13): 1723076540285 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.13): 1723076543355 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.13): 1723076543599 tunnel running, 1 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+buy-nancy.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
